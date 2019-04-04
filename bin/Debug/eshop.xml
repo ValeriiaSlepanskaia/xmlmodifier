@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eShop shopName="eShop">
+  <!--This is a order list of eShop-->
+  <order IdOrder="1" Status="Done">
+    <Client IdClient="5" />
+    <Product IdProduct="9" />
+    <DeliveryAddress>Ukraine,Kharkiv,Gvardeizev Shironinzev 51, 100</DeliveryAddress>
+    <Registration>2015-10-18</Registration>
+    <DateOfDelivery>2017-01-18</DateOfDelivery>
+    <Price>999.0</Price>
+  </order>
+  <order IdOrder="3">
+    <Client IdClient="9" />
+    <Product IdProduct="99" />
+    <DeliveryAddress>Ukraine,Kharkiv,Pushkinska 17, 81</DeliveryAddress>
+    <Registration>2016-09-19</Registration>
+    <DateOfDelivery>2016-10-19</DateOfDelivery>
+    <Price>30000.0</Price>
+  </order>
+</eShop>

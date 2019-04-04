@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\obj\Debug\ModifyXmlEShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\obj\Debug\ModifyXmlEShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\bin\Debug\eshop.xml
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\bin\Debug\ModifyXmlEShop.exe.config
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\bin\Debug\ModifyXmlEShop.exe
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\bin\Debug\ModifyXmlEShop.pdb
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\obj\Debug\ModifyXmlEShop.exe
+C:\Users\User\source\repos\ModifyXmlEShop\ModifyXmlEShop\obj\Debug\ModifyXmlEShop.pdb
